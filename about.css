@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+  }
+  html, body {
+    overflow-x: hidden;
+  }
+  nav{ font-family: 'Lora', serif}
+  .offcan{width: 65%;}
+  .me2{border-bottom: 0.5px solid #C0C0C0;
+padding: 13px;}
+  .me2:hover{color:blue;
+    background-color: 	#F0F0F0;}
+  .nav-link{color: #fff;}
+  .content{
+margin-top: 70px;
+width:70%}
+.fa{font-size: 10px;
+color: teal;}
+.bo{background-color: #F0F0F0;
+overflow-x: hidden;
+font-family: 'Ubuntu', sans-serif;}
+
+
+.aa{color: red;}
+
+.menu{margin-left: 65%;
+    font-weight: 400;
+    font-size: 16px;
+    }
+    .me{transition:all 0.5s;}
+    .me:hover{
+    transform: scale(1.10);
+    transition: all 0.5s;
+    }
+    .car{
+      line-height: 30px;
+    }
+    .headings{border-bottom: 1px solid black;
+    font-weight: 400;}
+    .copyright{
+      
+      margin-top:390px;
+    }
+  
+    nav {
+      box-shadow: 0 4px 4px 0 rgba(0,0,0,.2);
+    }
+      
+     
+      
+      
+      
